@@ -1,0 +1,205 @@
+.bill_page{
+    width: 360px;
+    height: 640px;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 360px;
+    height: 165px;
+    background-color: #C8FFF3;
+    padding: 0.1px;
+}
+.header_logo{
+    display: flex;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+.img_logo{
+    display: flex;    
+    width: 66.98px;
+    height: 20.71px;
+}
+.img_logo_top{
+    display: flex;
+    width: 8px;
+    height:8px ;
+}
+.img_top{
+    display: flex;
+    width:6px ;
+    height:5px ;
+}
+.logo_right_vector{
+    height: 120px;
+    width: 30%;
+}
+.logo_right{
+    display: flex;
+    height: 84px;
+    width: 60px;
+}
+.btn_close{
+    justify-content: right;
+    display: flex;
+    width: 100%;
+    margin-right: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+.order_date{
+    height: 94px;
+    display: flex;
+}
+.order_detail{
+    width: 70%;
+}
+.order_hotel{
+    width: 212px;
+    height: 41px;
+    display: inline-block;
+}
+.order_hotel_name{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19px; 
+    letter-spacing: 0.15000000596046448px;
+    text-align: left; 
+    margin-left: 35px; 
+    display: inline;
+}
+.bill_order_date{
+    width: 166px;
+    height: 34px;
+    display: inline-block;  
+}
+.order_date_id{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19px; 
+    letter-spacing: 0.15000000596046448px;
+    text-align: left; 
+    margin-left: 35px; 
+    display: inline;   
+}
+.menu{
+    width: 360px;
+    height: 233px;
+    display: inline-block;
+}
+.order_menu{
+ height: 75px;
+ display: flex;
+}
+.menu_left{
+    width: 50%;
+    justify-content: left;
+}
+.menu_right{
+    width: 50%;
+    justify-content: right;
+    display: inline-block;
+}
+.menu_item_top{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    height: 35px;
+    margin-left: 35px;
+}
+.menu_item_bottom{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);;
+    height: 35px;
+    margin-left: 35px;
+}
+.menu_item{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19px; 
+    letter-spacing: 0.15000000596046448px;
+    text-align: left; 
+    display: inline;  
+}
+.quantity_top{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);;
+    height: 35px;
+    text-align: end;
+}
+.quantity_bottom{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);;
+    height: 35px;
+    text-align: end;
+}
+.quantity_colum{
+    width: 50%;
+    justify-content: left;
+    display: inline-block;
+}
+.price_colum{
+    width: 50%;
+    justify-content: right;
+    display: inline-block;
+    height: 75px;
+}
+.price_colum_top{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    height: 35px;
+    text-align: end;
+    margin-right: 34px;
+}
+.price_colum_bottom{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    height: 35px;
+    text-align: end;
+    margin-right: 34px;
+}
+.bill_colum{
+    height: 157px;
+    display: flex;
+}
+.bill_amount_left{
+    width: 50%;
+    height: 175px;
+    justify-content: left;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    margin-left: 35px;
+}
+.bill_amount{
+   width: 50%;
+   height: 175px;
+   justify-content: end;
+   display: inline-block;
+}
+.bill_total_left{
+    width: 50%;
+    height: 157px;
+    justify-content: left;
+    display: inline-block;
+}
+.bill_total_right{
+    width: 50%;
+    height: 157px;
+    justify-content: right;
+    display: inline-block;
+}
+.bill_total{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19px; 
+    letter-spacing: 0.15000000596046448px;
+    text-align: right; 
+    display: inline;  
+}
+.deliver_detail{
+    width: 290px; 
+    margin-left: 35px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+.address_detail{
+    width: 290px; 
+    display: inline-block;
+    height: 50px;
+    margin-left: 35px;
+}
+
+

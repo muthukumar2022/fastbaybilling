@@ -1,0 +1,198 @@
+.payment_page{
+    width: 360px;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+    display: flex;
+}
+.payment_date{
+    width: 70%;
+    margin-top: 28px;
+    display: flex; 
+    margin-left: 35px;
+   
+    
+}
+.view_payment_receipt{
+    width: 30%;
+   
+}
+.nav_next_page{
+    display: flex;
+    margin-top: 28px;
+   margin-left: 10px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19px; 
+   text-decoration: none;
+
+}
+.payment_hotel{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19px; 
+    
+}
+.cooking_section{
+    width: 360px;
+    height: 65px;
+   display: flex;
+   align-items: center;
+   /* border-bottom: 1px solid rgba(0, 0, 0, 0.12); */
+   
+}
+
+.cooking_section_left{
+    width: 40%;
+    height: 65px;
+    justify-content: left;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    margin-left: 15px;
+}
+.cooking_section_right{
+    width: 60%;
+    height: 65px;
+    justify-content: right;
+    /* background-color: aqua; */
+    display: flex;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    margin-right: 10px;
+}
+.cooking_now_text{
+     width: 70%;
+     display: flex;
+     margin-top: 41px;
+     justify-content: end;
+
+}
+.cooking_now_page{
+    height: 16px;
+    width: 88px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19px; 
+
+
+}
+.cooking_now_logo{
+    width: 30%;
+    display: flex;
+    /* margin-left: 5px; */
+}
+.logo_first{
+    width: 45px;
+    height: 21.58px;
+    display: flex;
+    margin-top: 36px;
+    /* margin-right: 35px; */
+    /* margin-left: 10px; */
+    /* background-color: yellow; */
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+.logo_second{
+   position: absolute;
+   width: 10px;
+   height: 18px;
+   margin-top: 36px;
+   margin-left: 8px;
+   /* margin-right: 28px; */
+}
+.logo_third{
+    width: 39.86px;
+    height: 7.81px;
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 3px;
+    /* margin-right: 5px; */
+}
+.logo_four{
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    margin-top: 25px;
+    margin-left: 36px;
+}
+.logo_five{
+    position: absolute;
+    width: 35.35px;
+    height: 10.04px;
+    margin-top: 21px;
+    margin-left: 6px;
+}
+.logo_six{
+    width: 4px;
+    height: 4px;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 35px;
+}
+.logo_sevan{
+    width: 4px;
+    height: 4px;
+    position: absolute; 
+    margin-top: 10px;
+     margin-left: 40px;
+}
+
+.empty_speace{
+    width: 360px;
+    height: 223px;
+   
+}
+.payment_hotel_left{
+    width: 50%;
+    height: 22px;
+    justify-content: left;
+   
+}
+.payment_hotel_right{
+     width: 50%;
+     height: 22px;
+     justify-content: right;
+     
+}
+.payment_footer{
+    width: 360px;
+    height: 219px;
+    background-color: #8EFFE7;
+   
+   
+}
+.payment_footer_earn{
+    width: 360px;
+    height: 120px;
+    display: flex;
+    
+}
+.payment_earn_cashback{
+    width: 290px;
+    height: 35px;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.15px;
+    margin-top: 87px;
+    margin-left: 45px;
+
+}
+.payment_footer_claim{
+    width: 360px;
+}
+.payment_claim_btn{
+    width: 290px;
+    height: 50px;
+    border-radius: 4px;
+    background: #000000;
+    color: white;
+    margin-left: 35px;
+    margin-top: 13px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+}

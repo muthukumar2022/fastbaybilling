@@ -1,0 +1,82 @@
+.header_page{
+    width: 360px;
+   height: 50px;
+   display: flex;
+}
+.nav_warpper{
+    display: flex;
+    width: 360px;
+    height: 50px;
+   
+    
+}
+.logo{
+  
+    display: flex;
+    justify-content: left;
+   
+    margin-top: 29px;
+   
+}
+.logo_left{
+    width: 67px;
+    height: 21px;
+    margin-left: 25px;
+    /* margin-top: 18px; */
+}
+.logo_top{
+    display: flex;
+    width: 8px;
+    height: 8px;
+    margin-top: 8px; 
+}
+.logo_top_tm{
+    display: flex;
+    Width:6px;
+    Height:5px;
+    margin-top: 4px; 
+}
+.logo_right{
+    display: flex;
+    
+  
+}
+.logo_right_cell{
+   background: black;
+   color: white;
+   width: 18px;
+   height: 18px;
+   border-radius: 50%;
+   align-items: center;
+   display: flex;
+   /* justify-content: end; */
+}
+.payment_done{
+    width: 78px;
+    height: 17px;
+    background: #CCFBF1; 
+    border-radius: 4px;
+    display: inline-block;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 20px;
+    border: none;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+   
+    
+}
+.btn_payment_left{
+    display: flex;
+   margin-top: 29px;
+   margin-left: 80px;
+}
+.btn_cell{
+    display: flex;
+   justify-content: end;
+   margin-left: 60px;
+   margin-top: 29px;
+   
+}
